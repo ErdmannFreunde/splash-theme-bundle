@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.6.0 (21.02.2020)
+- Kompatibilität zu Contao 4.9 hergestellt 
+
 ## 1.5.0 (19.11.2019)
 - Für die Instalallation _mit Demo_ und _ohne Demo_ gibt es nun getrennte ZIP-Archive
 
